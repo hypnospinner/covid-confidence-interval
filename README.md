@@ -17,4 +17,4 @@ Output:
 3       Kenya  0.018247   (0.01352172529000852, 0.022972607029593355)
 ```
 
-Note that not all countries have data on picked date so error can occur.
+Note that not all countries have data on picked date (1st of May) so error can occur.
